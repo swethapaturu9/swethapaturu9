@@ -10,7 +10,6 @@ I'm a driven Graduate Student in Computer Software Engineering at Northeastern U
 
 📫 Reach me at 
  - 📧 paturu.s@northeastern.edu
- - [![Linkedin Badge](https://img.shields.io/badge/-SwethaPaturu-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/swetha-paturu)
  - 📞 +1 8573132977
 
 ### 📈 Stats 
