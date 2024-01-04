@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/swethapaturu9/swethapaturu9/blob/main/1*dXGDvAjiOmctAdDvYP38Ew.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/mAZf4H4Pi0wwlj3ZAw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-cloud-wifi-mAZf4H4Pi0wwlj3ZAw">via GIPHY</a></p>
 </div>
 
 ### Hi there 👋
