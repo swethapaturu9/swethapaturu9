@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/mAZf4H4Pi0wwlj3ZAw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-cloud-wifi-mAZf4H4Pi0wwlj3ZAw">via GIPHY</a></p>
+    <img src="https://giphy.com/stickers/computer-cloud-wifi-mAZf4H4Pi0wwlj3ZAw" width="100"/>
 </div>
 
 ### Hi there 👋
