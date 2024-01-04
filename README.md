@@ -30,7 +30,7 @@ I'm a driven Graduate Student in Computer Software Engineering at Northeastern U
 
 During my tenure at Larsen & Toubro Infotech, I played a pivotal role in developing a grading service for LTI's internal skill testing platform, utilizing Spring Boot. My responsibilities included authoring Dockerfiles and managing Kubernetes deployments on OpenShift and Google Kubernetes Engine. I optimized application accessibility through cloud platform routing and spearheaded a successful application migration between cloud platforms. Additionally, I crafted Jenkins pipelines using Groovy scripts for continuous integration, integrated Jenkins with IBM Multicloud Management, and implemented ManageIQ for resource allocation, achieving a notable cost reduction
 
-### 📓 Certifications 
+### Certifications 
 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="15" height="15"/></a> Certified Kubernetes Application Developer
       - [Credential Link](https://www.credly.com/badges/8d90228d-ed66-4baa-ad20-23b71482ff5c/linked_in?t=rz8e2y)
