@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Swetha Paturu</h1>
-<h3 align="center">A software engineer looking forward to a career in DevOps and Site Reliability ! ![Profile Views](https://komarev.com/ghpvc/?username=swethapaturu9&label=Profile+Views&color=blueviolet) </h3>
+<h3 align="center">A software engineer looking forward to a career in DevOps and Site Reliability ! </h3>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swethapaturu9&theme=highcontrast)](https://git.io/streak-stats)
