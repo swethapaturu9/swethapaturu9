@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=swethapaturu9&label=Profile+Views&color=blueviolet)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swethapaturu9&theme=highcontrast)](https://git.io/streak-stats)
