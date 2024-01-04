@@ -6,7 +6,7 @@
 
 ### :woman_technologist: Introduction
 
-I'm a driven Graduate Student in Computer Software Engineering at Northeastern University, Boston, specializing in Automation and Cloud Computing. Eagerly on the lookout for exciting full-time opportunities beginning May 2024 !
+As a dedicated graduate student at Northeastern University, I specialize in software engineering with a focus on cloud technologies and automation. My practical experience at Larsen & Toubro Infotech has equipped me with hands-on skills in cloud infrastructure and software deployment. Committed to continual learning and driven by a proactive attitude, I am eagerly poised to make meaningful contributions in the tech world
 
 📫 Reach me at 
  - 📧 paturu.s@northeastern.edu
