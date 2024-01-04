@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 
-[![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethapaturu9)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swethapaturu9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swethapaturu9&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swethapaturu9&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
 
