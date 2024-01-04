@@ -4,11 +4,6 @@
 <h3 align="center">A software engineer looking forward to a career in DevOps and Cloud Computing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ! </h3>
 
 
-### :woman_technologist: About Me 
-
-- I love cloud !! 
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swethapaturu9&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swethapaturu9&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
