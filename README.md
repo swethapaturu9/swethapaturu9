@@ -1,8 +1,4 @@
 
-<div id="header" align="center">
-    <img src="https://giphy.com/stickers/computer-cloud-wifi-mAZf4H4Pi0wwlj3ZAw" width="100"/>
-</div>
-
 ### Hi there 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=swethapaturu9&label=Profile+Views&color=blueviolet)
 
