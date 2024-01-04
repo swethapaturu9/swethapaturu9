@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Swetha Paturu</h1>
-<h3 align="center">A software engineer looking forward to a career in DevOps and Cloud Computing !</h3>
+<h3 align="center">A software engineer looking forward to a career in DevOps and Site Reliability !</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=swethapaturu9&label=Profile+Views&color=blueviolet)
 
