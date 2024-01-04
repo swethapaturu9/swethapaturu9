@@ -8,6 +8,11 @@
 
 I'm a driven Graduate Student in Computer Software Engineering at Northeastern University, Boston, specializing in Automation and Cloud Computing. Eagerly on the lookout for exciting full-time opportunities beginning May 2024 !
 
+📫 Reach me at 
+ - 📧 paturu.s@northeastern.edu
+ - [![Linkedin Badge](https://img.shields.io/badge/-SwethaPaturu-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/swetha-paturu)
+ - 📞 +1 8573132977
+
 ### 📈 Stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swethapaturu9&theme=highcontrast)](https://git.io/streak-stats)
