@@ -12,14 +12,7 @@ As a dedicated graduate student at Northeastern University, I specialize in soft
  - 📧 paturu.s@northeastern.edu
  - 📞 +1 8573132977
 
-### 📈 Stats 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swethapaturu9&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swethapaturu9&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 💼 Why should you hire me ? 
+### About Me  
 
 - 🔍  I am passionate about delving deep into the heart of issues, a skill honed not only in technology but also through a keen interest in history, ensuring      thorough understanding and effective problem-solving
 -  ☁️ I have a deep understanding of cloud infrastructures, demonstrated through hands-on experience with AWS, Docker, Kubernetes, Terraform and Pulumi
