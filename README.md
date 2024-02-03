@@ -19,7 +19,7 @@ As a dedicated graduate student at Northeastern University, I specialize in soft
 -  💻 I have a strong foundation in multiple programming languages (Java, Python, C++, JavaScript) and web technologies (Spring, Node.js, React.js)
 -  ⚒️ I am skilled in creating efficient CI/CD pipelines, ensuring seamless software integration and deployment, as demonstrated in my role at Larsen & Toubro Infotech
 -  🤝 I have experience leading teams in developing full-stack applications, showcasing my ability to manage and work collaboratively
--  🌎 Having studied and worked in diverse environments, I bring a unique international perspective to the team
+-  🌎 Having studied and worked in diverse environments, I bring an unique international perspective to the team
 -  🌱 Continuously enhancing my skills in software engineering and cloud technologies, I embody the spirit of a lifelong learner
 -  🦸‍♀️ With a go-getter attitude, I navigate challenges using creativity and persistence, focused on achieving solid results
 
