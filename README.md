@@ -8,9 +8,13 @@
 
 As a dedicated graduate student at Northeastern University, I specialize in software engineering with a focus on cloud technologies and automation. My practical experience at Larsen & Toubro Infotech has equipped me with hands-on skills in cloud infrastructure and software deployment. Committed to continual learning and driven by a proactive attitude, I am eagerly poised to make meaningful contributions in the tech world
 
-📫 Reach me at 
- - 📧 paturu.s@northeastern.edu
- - 📞 +1 8573132977
+📫 Contact Information
+
+       📧 paturu.s@northeastern.edu
+  
+       📞 +1 8573132977
+  
+       🌐 https://swecsye6225.me
 
 ### About Me  
 
