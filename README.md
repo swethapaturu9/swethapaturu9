@@ -51,4 +51,4 @@ As a dedicated graduate student at Northeastern University, I specialize in soft
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-### 📙 View my Projects: https://swecsye6225.me
+### 📙 View my Projects https://swecsye6225.me
