@@ -13,8 +13,6 @@ As a dedicated graduate student at Northeastern University, I specialize in soft
        📧 paturu.s@northeastern.edu
   
        📞 +1 8573132977
-  
-       🌐 https://swecsye6225.me
 
 ### About Me  
 
@@ -53,3 +51,4 @@ As a dedicated graduate student at Northeastern University, I specialize in soft
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
+### 📙 View my Projects: https://swecsye6225.me
